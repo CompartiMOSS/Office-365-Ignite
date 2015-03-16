@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="fac21e27-97d3-4ed3-9935-cf6bb1fb041f" 
+        solutionId="fac21e27-97d3-4ed3-9935-cf6bb1fb041f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CO365CrossDomainApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="d5f97c7e-bff0-4b75-b025-0e52e3d047bc" />
+  </features>
+</package>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created:cbbc9d22-5cf7-4e4c-8ee9-42a772aae58a-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" ProductID="{c602e1d0-3680-407b-89a9-f3025bae482c}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0" Name="CO0365ECMAScriptApp">
+  <Properties>
+    <Title>CO 365 ECMAScript App</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+<AppPermissionRequests><AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web" Right="Manage" /><AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web/list" Right="Read" /></AppPermissionRequests></App>

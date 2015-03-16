@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="454982d3-9e19-4535-af50-564b3955d54a" 
+        solutionId="454982d3-9e19-4535-af50-564b3955d54a" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CO0365ECMAScriptApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="00066759-3b36-406b-acb7-f48de9cc8f48" />
+  </features>
+</package>

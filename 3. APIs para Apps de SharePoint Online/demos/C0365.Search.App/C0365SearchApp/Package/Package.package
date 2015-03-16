@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="4279bfd3-01ea-4823-9a55-62890f92e173" 
+        solutionId="4279bfd3-01ea-4823-9a55-62890f92e173" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="C0365SearchApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="97375e81-2427-4d16-93dd-1daa8528e95e" />
+  </features>
+</package>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7c8f1fe5-a2ce-4724-89de-d78c7be1e695" 
+        solutionId="7c8f1fe5-a2ce-4724-89de-d78c7be1e695" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CO365SPORESTOps"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="df4cc08f-14d6-43d9-89cf-9b79bb28d21a" />
+  </features>
+</package>

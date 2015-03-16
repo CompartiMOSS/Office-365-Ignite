@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{9F412ED4-1E01-46D9-B3C3-D7F573CC71A0}") = "CO365CrossDomainApp", "CO365CrossDomainApp\CO365CrossDomainApp.csproj", "{DF42D3E9-1B81-4561-A25B-59C956D4AC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF42D3E9-1B81-4561-A25B-59C956D4AC02}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

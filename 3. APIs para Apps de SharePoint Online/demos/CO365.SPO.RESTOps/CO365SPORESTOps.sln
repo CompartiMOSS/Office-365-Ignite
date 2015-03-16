@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{9F412ED4-1E01-46D9-B3C3-D7F573CC71A0}") = "CO365SPORESTOps", "CO365SPORESTOps\CO365SPORESTOps.csproj", "{8B2C435B-59BC-40FD-86ED-A8B5D317331B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2C435B-59BC-40FD-86ED-A8B5D317331B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
