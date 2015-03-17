@@ -1,4 +1,4 @@
-# Office365Ignite
+# Office 365 Ignite
 Curso de desarrollo para Office 365
 
 1. Overview de desarrollo para Office 365 & Herramientas / Entorno de desarrollo
@@ -9,9 +9,9 @@ Curso de desarrollo para Office 365
 6. Desarrollo de Aplicaciones para SharePoint Online
 7. APIs de Office 365 para Calendarios, Contactos y Archivos 
 
-Laboratorios
+[Laboratorios] (https://github.com/CompartiMOSS/Office-365-Ignite/tree/master/Laboratorios)
 
-Enlaces
+**Enlaces**
 
 http://github.com/OfficeDev
 
