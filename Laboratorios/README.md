@@ -1,4 +1,4 @@
-﻿# Office365Ignite
+﻿# Office 365 Ignite
 Laboratorios de desarrollo para Office 365
 
 1. Creación de Aplicaciones para Office 
