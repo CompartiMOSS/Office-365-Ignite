@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------------
+-REST
+------------------------------------------------------------------------------------
+--Sitio de SharePoint
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web
+
+--Listas del sitio
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists
+
+--Lista en concreto
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists/GetByTitle('Documentos')
+
+--Elementos de una lista
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists/GetByTitle('Documentos')/items
+
+--Primer elemento de una lista
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists/GetByTitle('Documentos')/items(1)
+
+----------------------------------------------------------------------------------------
+--OData
+----------------------------------------------------------------------------------------
+--Sitio de SharePoint:
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web?$Select=Title
+
+--Listas del Sitio:
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists?$Select=Title
+
+
+--Elementos de una lista con filtro de propiedades y ordenación
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/web/lists/getbytitle('Contactos Curso Office 365')/items/?$select=Created,Title&Orderby=Created
+
+----------------------------------------------------------------------------------------
+--Servicios
+----------------------------------------------------------------------------------------
+-- Uso de las búsquedas:	
+https://itechcs.sharepoint.com/sites/CO365DeveloperSite/_api/search/query?querytext='sharepoint' 
